@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Raiyyan  
 
-<!--
-**MohammadRaiyyan/MohammadRaiyyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer II | React | JavaScript | TypeScript  
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable web apps and working on side projects.  
+🎯 Currently working at [Your Company Name].  
+🌱 Exploring advanced frontend architecture and backend integration.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript, Java  
+- **Frontend**: React.js, Vue.js, HTML, CSS  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB, PostgreSQL  
+- **Tools**: Git, Docker, Postman  
+
+---
+
+## 📊 GitHub Stats
+![Raiyyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadRaiyyan&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRaiyyan&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Let's Connect
+- Portfolio: [raiyyanportfolio.netlify.app](https://raiyyanportfolio.netlify.app)  
+- LinkedIn: [linkedin.com/in/yourprofile](#)  
+- Twitter: [twitter.com/yourprofile](#)  
