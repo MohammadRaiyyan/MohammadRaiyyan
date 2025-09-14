@@ -3,24 +3,28 @@
 💻 Frontend Developer II | React | JavaScript | TypeScript  
 
 🚀 Passionate about building scalable web apps and working on side projects.  
-🎯 Currently working at [Your Company Name].  
+🎯 Currently working at Wobot Intelligence Pvt Ltd.  
 🌱 Exploring advanced frontend architecture and backend integration.  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Java  
-- **Frontend**: React.js, Vue.js, HTML, CSS  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB, PostgreSQL  
+- **Frontend**: React.js, Svelte, Vue.js, HTML, CSS  
+- **Backend**: Spring Boot 
+- **Databases**: PostgreSQL  
 - **Tools**: Git, Docker, Postman  
 
 ---
 
-## 📊 GitHub Stats
-![Raiyyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadRaiyyan&show_icons=true&theme=radical)  
+## 📌 Quick Stats
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRaiyyan&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRaiyyan&layout=compact&theme=tokyonight)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohammadRaiyyan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
