@@ -26,5 +26,4 @@
 
 ## 🌍 Let's Connect
 - Portfolio: [raiyyanportfolio.netlify.app](https://raiyyanportfolio.netlify.app)  
-- LinkedIn: [linkedin.com/in/yourprofile](#)  
-- Twitter: [twitter.com/yourprofile](#)  
+- LinkedIn: [www.linkedin.com/in/m-raiyyan](www.linkedin.com/in/m-raiyyan)  
