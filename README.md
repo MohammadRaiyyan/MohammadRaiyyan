@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Raiyyan  
 
-💻 Frontend Engineer | React | JavaScript | TypeScript  
+💻 Frontend Engineer | React.js | Next.js | JavaScript | TypeScript  
 
 🚀 Passionate about building scalable web apps and working on side projects.  
 🎯 Currently working at Wobot Intelligence Pvt Ltd.  
@@ -9,11 +9,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript, Java  
-- **Frontend**: React.js, Svelte, Vue.js, HTML, CSS  
-- **Backend**: Spring Boot 
-- **Databases**: PostgreSQL  
-- **Tools**: Git, Docker, Postman  
+- **Languages**: JavaScript, TypeScript, Node.js  
+- **Frontend**: React.js, Next.js, Svelte.js, Vue.js, HTML, CSS  
+- **Tools**: PostgreSQL, AWS, Git, Docker, Vite, Vitest, Jest
 
 ---
 
