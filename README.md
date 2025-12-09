@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Raiyyan  
 
-💻 Frontend Developer II | React | JavaScript | TypeScript  
+💻 Frontend Engineer | React | JavaScript | TypeScript  
 
 🚀 Passionate about building scalable web apps and working on side projects.  
 🎯 Currently working at Wobot Intelligence Pvt Ltd.  
