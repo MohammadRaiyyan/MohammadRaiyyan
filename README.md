@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Raiyyan  
+# 👋 Hi, I'm Raiyyan  
 
 💻 Frontend Engineer | React.js | Next.js | JavaScript | TypeScript  
 
