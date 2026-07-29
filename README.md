@@ -82,16 +82,6 @@ Building scalable web applications with modern technologies and a strong focus o
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohammadRaiyyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 📌 Project Management Platform
@@ -145,16 +135,7 @@ Production-grade analytics dashboard with modern UI, reusable component architec
 
 <a href="https://raiyyanportfolio.netlify.app">🌍 Portfolio</a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/m-raiyyan">LinkedIn</a>
 
 </p>
 
----
-
-<p align="center">
-
-> *"Great software isn't just built—it is engineered with simplicity, scalability, and purpose."*
-
-</p>
