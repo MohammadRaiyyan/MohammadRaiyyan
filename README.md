@@ -13,9 +13,6 @@ Building scalable web applications with modern technologies and a strong focus o
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;FastAPI+%7C+PostgreSQL+%7C+Docker;Building+Modern+Web+Applications" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohammadRaiyyan&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
