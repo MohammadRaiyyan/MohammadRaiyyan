@@ -53,28 +53,5 @@ Building scalable web applications with modern technologies and a strong focus o
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" />
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadRaiyyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRaiyyan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MohammadRaiyyan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRaiyyan&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 
