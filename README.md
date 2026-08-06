@@ -130,7 +130,7 @@ Production-grade analytics dashboard with modern UI, reusable component architec
 
 <p align="center">
 
-<a href="https://raiyyanportfolio.netlify.app">🌍 Portfolio</a>
+<a href="https://raiyyan.dev">🌍 Portfolio</a>
 
 <a href="https://linkedin.com/in/m-raiyyan">LinkedIn</a>
 
