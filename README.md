@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Raiyyan</h1>
+<h1 align="center">Hi, I'm Mohammad Raiyyan</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong><br/>
@@ -16,7 +16,7 @@ Building scalable web applications with modern technologies and a strong focus o
 
 ---
 
-# 💫 About Me
+# About Me
 
 - 💼 Full Stack Developer at **Wobot Intelligence Pvt. Ltd.**
 - 🚀 Passionate about building scalable, performant and maintainable web applications
@@ -27,7 +27,7 @@ Building scalable web applications with modern technologies and a strong focus o
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 ### Languages
 
